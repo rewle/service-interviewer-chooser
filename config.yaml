@@ -1,0 +1,5 @@
+addr: "0.0.0.0:8000"
+dbUser: "test"
+dbAddr: "db:5432" 
+dbPassword: "APP_DB_PASSWORD"
+db: "service-select-participants"
